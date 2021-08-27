@@ -1,0 +1,600 @@
+0	1	1	Collectibles
+0	1	12	Other Antiques
+0	2	13	Glassware
+0	1	14	Other Glassware
+0	4	18	Other Opaque Glassware
+0	2	22	Other EAPG Patterned Glassware
+0	2	23	Other Elegant Glassware
+0	2	24	China & Dinnerware
+0	1	25	Other China & Dinnerware
+0	2	26	Other Figurines
+0	0	27	Art Pottery
+0	4	28	Other Collectible Metalware
+0	0	30	Other Vintage & Antique Toys
+0	3	31	Antique
+0	3	32	Other Antique Dolls
+0	3	34	Advertising
+0	4	35	Other Merch & Memorabilia Ads
+0	1	36	Soda
+0	4	37	Other Soda Memorabilia
+0	2	38	Other Coca-Cola Ads
+0	4	39	Gas & Oil
+0	3	40	Other Gas & Oil Collectibles
+0	2	41	Esso
+0	4	42	Other Texaco Advertisements
+0	4	44	Cigarettes
+0	3	48	Other Contemporary Photographs
+0	1	51	Autographs-Original
+0	3	52	Other Autographed Sports Mem
+0	0	53	Other Autographed MLB Items
+0	4	56	Hockey-Other
+0	1	57	Autographs-Original
+0	1	58	Other Original Autographs
+0	1	59	Other Orig. Movie Autographs
+0	4	60	Television
+0	1	61	Other Orig Rock/Pop Autographs
+0	2	63	Comic Books & Memorabilia
+0	0	80	Figurines
+0	4	86	Other Art Pottery
+0	3	87	Fiesta: Vintage
+0	2	88	"Hummel, Goebel"
+0	4	89	McCoy
+0	1	90	Rookwood
+0	1	91	Shawnee
+0	3	92	Lenox
+0	0	93	Nippon
+0	0	95	Royal Doulton
+0	2	96	Roseville
+0	1	99	Everything Else
+0	2	113	Sewing (1930-Now)
+0	2	114	Other Sewing Collectibles
+0	4	115	Other Vintage Sewing Buttons
+0	1	116	Other Vintage Thimbles
+0	4	117	Other Plush Bears
+0	1	118	Other Breweriana
+0	0	124	Paper
+0	0	125	Other Paper Collectibles
+0	3	126	1960-Now
+0	1	127	Other Collectible Postcards
+0	3	128	Other Cultural Collectibles
+0	1	130	Other Railroadiana
+0	2	132	Other Collectible Radios
+0	1	133	Other Tobacciana
+0	0	134	United States
+0	2	135	Other Militaria
+0	2	136	Other Civil War Original Items
+0	0	137	Disneyana
+0	4	138	Other Disneyana
+0	0	139	Vintage (Pre-1968)
+0	0	140	Other Vintage Disneyana
+0	4	142	Plush Toys
+0	0	143	Other Disney Pins & Patches
+0	1	144	"Posters, Prints & Lithos"
+0	0	150	Other Collectible Lunchboxes
+0	2	152	Science Fiction & Horror
+0	2	153	Other Sci-Fi Collectibles
+0	4	154	Other Star Wars Collectibles
+0	4	155	Other Star Trek Collectibles
+0	2	156	X-Files
+0	1	158	Other Writing Collectibles
+0	4	162	Other Computers & Networking
+0	3	164	CPUs/Processors
+0	4	165	"Drives, Storage & Blank Media"
+0	4	167	"Other Drives, Storage & Media"
+0	3	169	"Floppy, Zip & Jaz Drives"
+0	2	170	Other Keyboards & Mice
+0	3	177	PC Laptops & Netbooks
+0	2	179	PC Desktops & All-In-Ones
+0	0	182	Other Computer Software
+0	1	185	Web & Desktop Publishing
+0	3	196	Movie Memorabilia
+0	4	197	Other Movie Memorabilia
+0	3	198	Other Original US Lobby Cards
+0	4	200	Black & White
+0	1	201	Other Television Memorabilia
+0	2	204	Baseball-Other
+0	0	205	Basketball-Other
+0	0	206	Football-NFL
+0	3	209	Antique Western
+0	3	212	Sports Trading Cards
+0	2	219	Other Non-Sport Trading Card Merchandise
+2	1	1	Collectibles
+2	3	12	Other Antiques
+2	3	13	Glassware
+2	2	14	Other Glassware
+2	0	18	Other Opaque Glassware
+2	4	22	Other EAPG Patterned Glassware
+2	1	23	Other Elegant Glassware
+2	1	24	China & Dinnerware
+2	0	25	Other China & Dinnerware
+2	4	26	Other Figurines
+2	4	27	Art Pottery
+2	3	28	Other Collectible Metalware
+2	1	30	Other Vintage & Antique Toys
+2	4	31	Antique
+2	0	32	Other Antique Dolls
+2	0	34	Advertising
+2	4	35	Other Merch & Memorabilia Ads
+2	4	36	Soda
+2	3	37	Other Soda Memorabilia
+2	3	38	Other Coca-Cola Ads
+2	1	39	Gas & Oil
+2	1	40	Other Gas & Oil Collectibles
+2	4	41	Esso
+2	4	42	Other Texaco Advertisements
+2	3	44	Cigarettes
+2	1	48	Other Contemporary Photographs
+2	3	51	Autographs-Original
+2	4	52	Other Autographed Sports Mem
+2	3	53	Other Autographed MLB Items
+2	2	56	Hockey-Other
+2	0	57	Autographs-Original
+2	1	58	Other Original Autographs
+2	0	59	Other Orig. Movie Autographs
+2	2	60	Television
+2	0	61	Other Orig Rock/Pop Autographs
+2	4	63	Comic Books & Memorabilia
+2	2	80	Figurines
+2	3	86	Other Art Pottery
+2	4	87	Fiesta: Vintage
+2	4	88	"Hummel, Goebel"
+2	1	89	McCoy
+2	1	90	Rookwood
+2	0	91	Shawnee
+2	0	92	Lenox
+2	3	93	Nippon
+2	0	95	Royal Doulton
+2	1	96	Roseville
+2	1	99	Everything Else
+2	3	113	Sewing (1930-Now)
+2	4	114	Other Sewing Collectibles
+2	0	115	Other Vintage Sewing Buttons
+2	3	116	Other Vintage Thimbles
+2	0	117	Other Plush Bears
+2	2	118	Other Breweriana
+2	1	124	Paper
+2	3	125	Other Paper Collectibles
+2	3	126	1960-Now
+2	0	127	Other Collectible Postcards
+2	4	128	Other Cultural Collectibles
+2	1	130	Other Railroadiana
+2	4	132	Other Collectible Radios
+2	0	133	Other Tobacciana
+2	4	134	United States
+2	2	135	Other Militaria
+2	0	136	Other Civil War Original Items
+2	1	137	Disneyana
+2	2	138	Other Disneyana
+2	4	139	Vintage (Pre-1968)
+2	2	140	Other Vintage Disneyana
+2	3	142	Plush Toys
+2	0	143	Other Disney Pins & Patches
+2	2	144	"Posters, Prints & Lithos"
+2	1	150	Other Collectible Lunchboxes
+2	3	152	Science Fiction & Horror
+2	3	153	Other Sci-Fi Collectibles
+2	2	154	Other Star Wars Collectibles
+2	0	155	Other Star Trek Collectibles
+2	3	156	X-Files
+2	4	158	Other Writing Collectibles
+2	0	162	Other Computers & Networking
+2	2	164	CPUs/Processors
+2	0	165	"Drives, Storage & Blank Media"
+2	0	167	"Other Drives, Storage & Media"
+2	2	169	"Floppy, Zip & Jaz Drives"
+2	3	170	Other Keyboards & Mice
+2	3	177	PC Laptops & Netbooks
+2	4	179	PC Desktops & All-In-Ones
+2	1	182	Other Computer Software
+2	3	185	Web & Desktop Publishing
+2	2	196	Movie Memorabilia
+2	2	197	Other Movie Memorabilia
+2	2	198	Other Original US Lobby Cards
+2	2	200	Black & White
+2	2	201	Other Television Memorabilia
+2	1	204	Baseball-Other
+2	2	205	Basketball-Other
+2	3	206	Football-NFL
+2	3	209	Antique Western
+2	2	212	Sports Trading Cards
+2	2	219	Other Non-Sport Trading Card Merchandise
+3	3	1	Collectibles
+3	4	12	Other Antiques
+3	1	13	Glassware
+3	3	14	Other Glassware
+3	0	18	Other Opaque Glassware
+3	4	22	Other EAPG Patterned Glassware
+3	1	23	Other Elegant Glassware
+3	2	24	China & Dinnerware
+3	0	25	Other China & Dinnerware
+3	2	26	Other Figurines
+3	1	27	Art Pottery
+3	4	28	Other Collectible Metalware
+3	2	30	Other Vintage & Antique Toys
+3	0	31	Antique
+3	0	32	Other Antique Dolls
+3	2	34	Advertising
+3	2	35	Other Merch & Memorabilia Ads
+3	3	36	Soda
+3	1	37	Other Soda Memorabilia
+3	3	38	Other Coca-Cola Ads
+3	1	39	Gas & Oil
+3	4	40	Other Gas & Oil Collectibles
+3	3	41	Esso
+3	4	42	Other Texaco Advertisements
+3	0	44	Cigarettes
+3	3	48	Other Contemporary Photographs
+3	0	51	Autographs-Original
+3	2	52	Other Autographed Sports Mem
+3	4	53	Other Autographed MLB Items
+3	2	56	Hockey-Other
+3	0	57	Autographs-Original
+3	1	58	Other Original Autographs
+3	3	59	Other Orig. Movie Autographs
+3	1	60	Television
+3	2	61	Other Orig Rock/Pop Autographs
+3	2	63	Comic Books & Memorabilia
+3	4	80	Figurines
+3	3	86	Other Art Pottery
+3	1	87	Fiesta: Vintage
+3	4	88	"Hummel, Goebel"
+3	4	89	McCoy
+3	1	90	Rookwood
+3	2	91	Shawnee
+3	2	92	Lenox
+3	3	93	Nippon
+3	2	95	Royal Doulton
+3	1	96	Roseville
+3	2	99	Everything Else
+3	4	113	Sewing (1930-Now)
+3	4	114	Other Sewing Collectibles
+3	4	115	Other Vintage Sewing Buttons
+3	3	116	Other Vintage Thimbles
+3	0	117	Other Plush Bears
+3	0	118	Other Breweriana
+3	2	124	Paper
+3	0	125	Other Paper Collectibles
+3	2	126	1960-Now
+3	4	127	Other Collectible Postcards
+3	2	128	Other Cultural Collectibles
+3	3	130	Other Railroadiana
+3	3	132	Other Collectible Radios
+3	0	133	Other Tobacciana
+3	1	134	United States
+3	0	135	Other Militaria
+3	4	136	Other Civil War Original Items
+3	4	137	Disneyana
+3	2	138	Other Disneyana
+3	0	139	Vintage (Pre-1968)
+3	4	140	Other Vintage Disneyana
+3	0	142	Plush Toys
+3	2	143	Other Disney Pins & Patches
+3	3	144	"Posters, Prints & Lithos"
+3	3	150	Other Collectible Lunchboxes
+3	1	152	Science Fiction & Horror
+3	0	153	Other Sci-Fi Collectibles
+3	1	154	Other Star Wars Collectibles
+3	3	155	Other Star Trek Collectibles
+3	4	156	X-Files
+3	2	158	Other Writing Collectibles
+3	3	162	Other Computers & Networking
+3	0	164	CPUs/Processors
+3	3	165	"Drives, Storage & Blank Media"
+3	4	167	"Other Drives, Storage & Media"
+3	3	169	"Floppy, Zip & Jaz Drives"
+3	3	170	Other Keyboards & Mice
+3	0	177	PC Laptops & Netbooks
+3	4	179	PC Desktops & All-In-Ones
+3	1	182	Other Computer Software
+3	1	185	Web & Desktop Publishing
+3	4	196	Movie Memorabilia
+3	0	197	Other Movie Memorabilia
+3	1	198	Other Original US Lobby Cards
+3	2	200	Black & White
+3	4	201	Other Television Memorabilia
+3	2	204	Baseball-Other
+3	1	205	Basketball-Other
+3	0	206	Football-NFL
+3	4	209	Antique Western
+3	4	212	Sports Trading Cards
+3	2	219	Other Non-Sport Trading Card Merchandise
+77	0	1	Collectibles
+77	4	12	Other Antiques
+77	1	13	Glassware
+77	4	14	Other Glassware
+77	2	18	Other Opaque Glassware
+77	2	22	Other EAPG Patterned Glassware
+77	4	23	Other Elegant Glassware
+77	2	24	China & Dinnerware
+77	0	25	Other China & Dinnerware
+77	3	26	Other Figurines
+77	1	27	Art Pottery
+77	0	28	Other Collectible Metalware
+77	2	30	Other Vintage & Antique Toys
+77	1	31	Antique
+77	2	32	Other Antique Dolls
+77	1	34	Advertising
+77	0	35	Other Merch & Memorabilia Ads
+77	1	36	Soda
+77	1	37	Other Soda Memorabilia
+77	2	38	Other Coca-Cola Ads
+77	2	39	Gas & Oil
+77	4	40	Other Gas & Oil Collectibles
+77	1	41	Esso
+77	2	42	Other Texaco Advertisements
+77	2	44	Cigarettes
+77	1	48	Other Contemporary Photographs
+77	4	51	Autographs-Original
+77	2	52	Other Autographed Sports Mem
+77	4	53	Other Autographed MLB Items
+77	3	56	Hockey-Other
+77	0	57	Autographs-Original
+77	2	58	Other Original Autographs
+77	3	59	Other Orig. Movie Autographs
+77	1	60	Television
+77	3	61	Other Orig Rock/Pop Autographs
+77	1	63	Comic Books & Memorabilia
+77	2	80	Figurines
+77	2	86	Other Art Pottery
+77	3	87	Fiesta: Vintage
+77	2	88	"Hummel, Goebel"
+77	4	89	McCoy
+77	4	90	Rookwood
+77	3	91	Shawnee
+77	0	92	Lenox
+77	2	93	Nippon
+77	0	95	Royal Doulton
+77	2	96	Roseville
+77	2	99	Everything Else
+77	0	113	Sewing (1930-Now)
+77	4	114	Other Sewing Collectibles
+77	1	115	Other Vintage Sewing Buttons
+77	0	116	Other Vintage Thimbles
+77	2	117	Other Plush Bears
+77	2	118	Other Breweriana
+77	4	124	Paper
+77	3	125	Other Paper Collectibles
+77	1	126	1960-Now
+77	1	127	Other Collectible Postcards
+77	4	128	Other Cultural Collectibles
+77	4	130	Other Railroadiana
+77	0	132	Other Collectible Radios
+77	3	133	Other Tobacciana
+77	1	134	United States
+77	3	135	Other Militaria
+77	3	136	Other Civil War Original Items
+77	4	137	Disneyana
+77	0	138	Other Disneyana
+77	2	139	Vintage (Pre-1968)
+77	3	140	Other Vintage Disneyana
+77	4	142	Plush Toys
+77	1	143	Other Disney Pins & Patches
+77	3	144	"Posters, Prints & Lithos"
+77	1	150	Other Collectible Lunchboxes
+77	0	152	Science Fiction & Horror
+77	2	153	Other Sci-Fi Collectibles
+77	4	154	Other Star Wars Collectibles
+77	2	155	Other Star Trek Collectibles
+77	3	156	X-Files
+77	4	158	Other Writing Collectibles
+77	4	162	Other Computers & Networking
+77	2	164	CPUs/Processors
+77	3	165	"Drives, Storage & Blank Media"
+77	4	167	"Other Drives, Storage & Media"
+77	2	169	"Floppy, Zip & Jaz Drives"
+77	0	170	Other Keyboards & Mice
+77	4	177	PC Laptops & Netbooks
+77	4	179	PC Desktops & All-In-Ones
+77	4	182	Other Computer Software
+77	0	185	Web & Desktop Publishing
+77	0	196	Movie Memorabilia
+77	2	197	Other Movie Memorabilia
+77	1	198	Other Original US Lobby Cards
+77	3	200	Black & White
+77	0	201	Other Television Memorabilia
+77	0	204	Baseball-Other
+77	3	205	Basketball-Other
+77	2	206	Football-NFL
+77	3	209	Antique Western
+77	1	212	Sports Trading Cards
+77	2	219	Other Non-Sport Trading Card Merchandise
+5	1	1	Collectibles
+5	0	12	Other Antiques
+5	1	13	Glassware
+5	1	14	Other Glassware
+5	3	18	Other Opaque Glassware
+5	2	22	Other EAPG Patterned Glassware
+5	2	23	Other Elegant Glassware
+5	4	24	China & Dinnerware
+5	3	25	Other China & Dinnerware
+5	1	26	Other Figurines
+5	3	27	Art Pottery
+5	4	28	Other Collectible Metalware
+5	2	30	Other Vintage & Antique Toys
+5	0	31	Antique
+5	4	32	Other Antique Dolls
+5	0	34	Advertising
+5	4	35	Other Merch & Memorabilia Ads
+5	4	36	Soda
+5	0	37	Other Soda Memorabilia
+5	1	38	Other Coca-Cola Ads
+5	4	39	Gas & Oil
+5	0	40	Other Gas & Oil Collectibles
+5	1	41	Esso
+5	1	42	Other Texaco Advertisements
+5	0	44	Cigarettes
+5	0	48	Other Contemporary Photographs
+5	4	51	Autographs-Original
+5	3	52	Other Autographed Sports Mem
+5	1	53	Other Autographed MLB Items
+5	2	56	Hockey-Other
+5	2	57	Autographs-Original
+5	2	58	Other Original Autographs
+5	2	59	Other Orig. Movie Autographs
+5	2	60	Television
+5	0	61	Other Orig Rock/Pop Autographs
+5	2	63	Comic Books & Memorabilia
+5	3	80	Figurines
+5	4	86	Other Art Pottery
+5	3	87	Fiesta: Vintage
+5	1	88	"Hummel, Goebel"
+5	2	89	McCoy
+5	4	90	Rookwood
+5	3	91	Shawnee
+5	0	92	Lenox
+5	1	93	Nippon
+5	0	95	Royal Doulton
+5	1	96	Roseville
+5	4	99	Everything Else
+5	0	113	Sewing (1930-Now)
+5	3	114	Other Sewing Collectibles
+5	1	115	Other Vintage Sewing Buttons
+5	4	116	Other Vintage Thimbles
+5	4	117	Other Plush Bears
+5	0	118	Other Breweriana
+5	1	124	Paper
+5	4	125	Other Paper Collectibles
+5	0	126	1960-Now
+5	3	127	Other Collectible Postcards
+5	0	128	Other Cultural Collectibles
+5	1	130	Other Railroadiana
+5	2	132	Other Collectible Radios
+5	2	133	Other Tobacciana
+5	1	134	United States
+5	2	135	Other Militaria
+5	4	136	Other Civil War Original Items
+5	3	137	Disneyana
+5	1	138	Other Disneyana
+5	2	139	Vintage (Pre-1968)
+5	0	140	Other Vintage Disneyana
+5	2	142	Plush Toys
+5	1	143	Other Disney Pins & Patches
+5	2	144	"Posters, Prints & Lithos"
+5	4	150	Other Collectible Lunchboxes
+5	4	152	Science Fiction & Horror
+5	1	153	Other Sci-Fi Collectibles
+5	0	154	Other Star Wars Collectibles
+5	3	155	Other Star Trek Collectibles
+5	1	156	X-Files
+5	0	158	Other Writing Collectibles
+5	0	162	Other Computers & Networking
+5	3	164	CPUs/Processors
+5	2	165	"Drives, Storage & Blank Media"
+5	0	167	"Other Drives, Storage & Media"
+5	4	169	"Floppy, Zip & Jaz Drives"
+5	0	170	Other Keyboards & Mice
+5	1	177	PC Laptops & Netbooks
+5	2	179	PC Desktops & All-In-Ones
+5	1	182	Other Computer Software
+5	3	185	Web & Desktop Publishing
+5	2	196	Movie Memorabilia
+5	3	197	Other Movie Memorabilia
+5	2	198	Other Original US Lobby Cards
+5	2	200	Black & White
+5	0	201	Other Television Memorabilia
+5	0	204	Baseball-Other
+5	1	205	Basketball-Other
+5	0	206	Football-NFL
+5	2	209	Antique Western
+5	0	212	Sports Trading Cards
+5	1	219	Other Non-Sport Trading Card Merchandise
+186	1	1	Collectibles
+186	0	12	Other Antiques
+186	2	13	Glassware
+186	3	14	Other Glassware
+186	3	18	Other Opaque Glassware
+186	4	22	Other EAPG Patterned Glassware
+186	4	23	Other Elegant Glassware
+186	2	24	China & Dinnerware
+186	2	25	Other China & Dinnerware
+186	3	26	Other Figurines
+186	0	27	Art Pottery
+186	3	28	Other Collectible Metalware
+186	3	30	Other Vintage & Antique Toys
+186	4	31	Antique
+186	0	32	Other Antique Dolls
+186	0	34	Advertising
+186	4	35	Other Merch & Memorabilia Ads
+186	4	36	Soda
+186	2	37	Other Soda Memorabilia
+186	1	38	Other Coca-Cola Ads
+186	0	39	Gas & Oil
+186	3	40	Other Gas & Oil Collectibles
+186	1	41	Esso
+186	0	42	Other Texaco Advertisements
+186	0	44	Cigarettes
+186	1	48	Other Contemporary Photographs
+186	3	51	Autographs-Original
+186	2	52	Other Autographed Sports Mem
+186	4	53	Other Autographed MLB Items
+186	3	56	Hockey-Other
+186	4	57	Autographs-Original
+186	0	58	Other Original Autographs
+186	4	59	Other Orig. Movie Autographs
+186	1	60	Television
+186	3	61	Other Orig Rock/Pop Autographs
+186	3	63	Comic Books & Memorabilia
+186	2	80	Figurines
+186	3	86	Other Art Pottery
+186	2	87	Fiesta: Vintage
+186	4	88	"Hummel, Goebel"
+186	0	89	McCoy
+186	3	90	Rookwood
+186	4	91	Shawnee
+186	0	92	Lenox
+186	2	93	Nippon
+186	0	95	Royal Doulton
+186	3	96	Roseville
+186	3	99	Everything Else
+186	4	113	Sewing (1930-Now)
+186	2	114	Other Sewing Collectibles
+186	2	115	Other Vintage Sewing Buttons
+186	0	116	Other Vintage Thimbles
+186	2	117	Other Plush Bears
+186	4	118	Other Breweriana
+186	1	124	Paper
+186	4	125	Other Paper Collectibles
+186	2	126	1960-Now
+186	4	127	Other Collectible Postcards
+186	1	128	Other Cultural Collectibles
+186	1	130	Other Railroadiana
+186	3	132	Other Collectible Radios
+186	4	133	Other Tobacciana
+186	1	134	United States
+186	0	135	Other Militaria
+186	1	136	Other Civil War Original Items
+186	2	137	Disneyana
+186	3	138	Other Disneyana
+186	0	139	Vintage (Pre-1968)
+186	1	140	Other Vintage Disneyana
+186	0	142	Plush Toys
+186	1	143	Other Disney Pins & Patches
+186	1	144	"Posters, Prints & Lithos"
+186	0	150	Other Collectible Lunchboxes
+186	0	152	Science Fiction & Horror
+186	1	153	Other Sci-Fi Collectibles
+186	4	154	Other Star Wars Collectibles
+186	4	155	Other Star Trek Collectibles
+186	4	156	X-Files
+186	1	158	Other Writing Collectibles
+186	1	162	Other Computers & Networking
+186	1	164	CPUs/Processors
+186	1	165	"Drives, Storage & Blank Media"
+186	4	167	"Other Drives, Storage & Media"
+186	0	169	"Floppy, Zip & Jaz Drives"
+186	2	170	Other Keyboards & Mice
+186	4	177	PC Laptops & Netbooks
+186	1	179	PC Desktops & All-In-Ones
+186	4	182	Other Computer Software
+186	1	185	Web & Desktop Publishing
+186	3	196	Movie Memorabilia
+186	4	197	Other Movie Memorabilia
+186	1	198	Other Original US Lobby Cards
+186	0	200	Black & White
+186	3	201	Other Television Memorabilia
+186	3	204	Baseball-Other
+186	2	205	Basketball-Other
+186	4	206	Football-NFL
+186	2	209	Antique Western
+186	0	212	Sports Trading Cards
+186	2	219	Other Non-Sport Trading Card Merchandise
